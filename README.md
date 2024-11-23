@@ -78,7 +78,7 @@ High-Dimensional-Classification/
 
 - **Model 2 (PCA-reduced Data)**:
   - Training Time: `0.15 seconds` (71% faster than Model 1)
-  - Accuracy: `89.86% of Model 1`
+  - Accuracy: `89.86%`
 
 ## Citation
 
