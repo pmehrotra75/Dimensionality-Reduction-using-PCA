@@ -1,0 +1,7 @@
+Accuracy on ML_model_1 (before PCA Implementation): 94.2%
+Time to train ML_model_1 (before PCA Implementation): 0.21 seconds
+
+Accuracy on ML_model_1 (after PCA Implementation): 89.86%
+Time to train ML_model_2 (after PCA Implementation): 0.15 seconds
+
+Percentage decrease in running Time after PCA Implementation: 71%
